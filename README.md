@@ -113,3 +113,7 @@ Anggota kelompok :
 2. Febry Putri Agus Damayanti (1482400038)
 3. Mei Maharani (1482400078)
 4. Chelsea Sarah Jeanita Panjaitan (1482400094)
+
+
+<img width="1587" height="2245" alt="KLASIFIKASI AKTIVITAS LOGIN NORMAL DAN MENCURIGAKAN BERDASARKAN POLA WAKTU, LOKASI, DAN PERANGKAT" src="https://github.com/user-attachments/assets/56f4b5a4-e0c1-42e7-9da8-7e326552f03b" />
+
